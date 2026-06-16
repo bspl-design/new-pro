@@ -1,0 +1,271 @@
+@media screen and (min-width: 360px) and (max-width: 575px) { 
+
+.header__logo img {
+    width: 130px;
+}
+
+.header {
+    padding: 10px 20px;
+}
+
+.hero {
+    padding: 70px 0;
+    min-height: auto;
+}
+
+.btn {
+    padding: 12px 25px;
+    font-size: 12px;
+}
+
+.ab img:last-child {
+    top: calc(52% - 130px);
+    width: 150px;
+}
+
+img.edition-img {
+    bottom: -45px;
+    width: calc(100% + 150px);
+    max-width: calc(100% + 150px);
+    transform: translate(-15%, -31%);
+}
+
+.ab {
+    margin-bottom: 30px;
+}
+
+.testimonials .section-kicker, .section-kicker {
+    font-size: 18px;
+}
+
+.section-heading {
+    font-size: 24px!important;
+}
+
+.about .section-text, p {
+    margin-top: 0;
+    line-height: 18px;
+    font-size: 12px!important;
+}
+
+.stats-counter-section {
+    padding-top: 50px;
+}
+
+.stat-label {
+    margin-bottom: 35px;
+}
+.stat-number {
+    font-size: 31px;
+}
+.clients-marquee-section .section-heading {
+    margin-bottom: 10px;
+}
+.experience .section-heading {
+    text-align: center;
+}
+.experience-tabs {
+    margin: 0px 0 10px 0;
+}
+
+.mt-5 {
+    margin-top: 1rem!important;
+}
+
+.services .section-text {
+    padding: 25px 0;
+}
+
+.service-card__title {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.stations {
+    padding: 100px 0;
+    height: auto;
+    background-position: unset;
+}
+
+.station-card__title {
+    font-size: 20px;
+}
+
+.mb-5 {
+    margin-bottom: 1rem!important;
+}
+
+.video-carousel.owl-carousel .owl-nav button.owl-prev::after {
+    content: '';
+    height: 50px;
+    width: 50px;
+    left: 0;
+    top: 0;
+}
+
+.video-carousel.owl-carousel .owl-nav button.owl-prev::before {
+    height: 20px;
+    width: 20px;
+    left: 15px;
+    top: 17px;
+    background-size: 84%;
+}
+
+.video-carousel.owl-carousel .owl-nav button.owl-next::after {
+    content: '';
+    height: 50px;
+    width: 50px;
+    left: 0;
+    top: 0;
+}
+
+.video-carousel.owl-carousel .owl-nav button.owl-next::before {
+    height: 20px;
+    width: 20px;
+    left: 15px;
+    top: 17px;
+    background-size: 84%;
+}
+
+.owl-carousel .owl-nav.disabled, .owl-carousel .owl-nav {
+    top: calc(50% - 45px);
+    left: -15px;
+    width: calc(100% - 20px);
+}
+
+.blog-card__title {
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+
+.blog-card__meta {
+    margin-bottom: 5px;
+}
+
+.blog-card__link {
+    font-size: 13px;
+}
+
+.blog-card {
+    margin-bottom: 35px;
+}
+
+.blogs .blog-body {
+    padding: 10px;
+}
+
+img.director-svg {
+    transform: rotate(180deg);
+    position: absolute;
+    bottom: -70px;
+}
+
+footer.footer {
+    margin-top: 60px;
+    padding: 0 30px;
+}
+
+.footer-contact-box .title {
+    font-size: 18px;
+}
+
+.footer-widget-title {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+.footer-links a {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+ul.footer-links.insta {
+    gap: 10px;
+}
+ul.footer-links.insta img {
+    width: 90px;
+}
+.footer-links li {
+    margin-bottom: 0px;
+}
+
+.my-5 {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+}
+
+.section-heading-main {
+    font-size: 30px;
+}
+img.badge-img {
+    width: 150px;
+    bottom: -60px;
+    left: 10px;
+}
+
+.mb-4 {
+    margin-bottom: 0.5rem!important;
+}
+.vision-sec {
+    margin-top: 15px;
+}
+
+.vision-sec .service-card__title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.vision-sec .service-card {
+    padding: 0 15px;
+    margin-top: 30px;
+}
+
+.section-kicker, h2 {
+    font-size: 25px;
+}
+
+.contact .card {
+    border: 1px solid #EBEBEB;
+    padding: 40px 20px;
+}
+.section-text, p, label {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.custom-input {
+    font-size: 13px;
+}
+
+h4.serif-heading {
+    font-size: 18px!important;
+}
+.info-box {
+    padding: 10px;
+    gap: 14px;
+}
+.info-box h6 {
+    font-size: 16px;
+}
+.info-box a {
+    font-size: 13px;
+}
+.icon-circle {
+    width: 40px;
+    height: 40px;
+    padding: 11px;
+}
+
+.service-heading {
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+.service .video-gallery {
+    gap: 10px;
+}
+.play-btn {
+    width: 40px;
+    height: 40px;
+}
+
+}
